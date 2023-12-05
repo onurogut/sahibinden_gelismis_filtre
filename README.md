@@ -1,6 +1,7 @@
 # Sahibinden Gelişmiş Filtre
 
-![image](https://github.com/onurogut/sahibinden_gelismis_filtre/assets/52832895/3c9424ac-fbed-4aff-90d1-2eed37a398b2)
+![image](https://github.com/onurogut/sahibinden_gelismis_filtre/assets/52832895/6bb23da3-62fb-4410-a8b9-615fec6e29f3)
+
 
 
 Bu Chrome eklentisi, Sahibinden web sitesinde belirli bir seriyi gizlemek için kullanılan bir filtreleme aracıdır.
