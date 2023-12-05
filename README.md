@@ -1,6 +1,3 @@
-# sahibinden_gelismis_filtre
-Sahibinden.com üzerinde araba ararken tersine filtreleme.
-
 # Sahibinden Gelişmiş Filtre
 
 Bu Chrome eklentisi, Sahibinden web sitesinde belirli bir seriyi gizlemek için kullanılan bir filtreleme aracıdır.
