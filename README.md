@@ -1,19 +1,14 @@
 # Sahibinden Gelişmiş Filtre
 
-Filtre ekranı:
 
 ![image](https://github.com/onurogut/sahibinden_gelismis_filtre/assets/52832895/2741f929-53ec-4b39-ba0c-9e242d57ccad)
-
-Örnek kullanım:
-
-![sahibingif](https://github.com/onurogut/sahibinden_gelismis_filtre/assets/52832895/44041d7e-69e7-4fa0-b884-ee571694d8ae)
-
-
 
 
 Bu Chrome eklentisi, Sahibinden web sitesinde belirli bir seriyi gizlemek için kullanılan bir filtreleme aracıdır.
 
 ## Kullanım
+
+![sahibingif](https://github.com/onurogut/sahibinden_gelismis_filtre/assets/52832895/44041d7e-69e7-4fa0-b884-ee571694d8ae)
 
 1. **Gizlenecek Seriyi Ekleyin:** Eklenti, Sahibinden web sitesinde gizlemek istediğiniz bir seri adını girmenize olanak tanır. Ardından, "Gizle" butonuna tıklayarak bu seriyi filtre listenize ekleyebilirsiniz.
 
